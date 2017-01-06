@@ -1,0 +1,435 @@
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (4,5,6) order by add_time limit 12
+select * from categery where cat_id=4
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (1,2,3) order by add_time limit 12
+select * from categery where cat_id=1
+use tmall
+set names utf8
+select goods_id,goods_name,shop_price,market_price,ori_img from goods order by add_time limit 5
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (1,2,3) order by add_time limit 5
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (4,5,6) order by add_time limit 5
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (1,2,3) order by add_time limit 12
+select * from categery where cat_id=1
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 12
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select goods_id,goods_name,shop_price,market_price,ori_img from goods order by add_time limit 5
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (1,2,3) order by add_time limit 5
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (4,5,6) order by add_time limit 5
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (2) order by add_time limit 12
+select * from categery where cat_id=2
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (10,11,12) order by add_time limit 12
+select * from categery where cat_id=10
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (50) order by add_time limit 12
+select * from categery where cat_id=50
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 12
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 12
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 12
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 12
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 12
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 12
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 12
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 12
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 12
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 12
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 12
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 12
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 12
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (1,2,3) order by add_time limit 12
+select * from categery where cat_id=1
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (1,2,3) order by add_time limit 0,5
+select * from categery where cat_id=1
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (4,5,6) order by add_time limit 0,5
+select * from categery where cat_id=4
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 0,5
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 0,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 0,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 4,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 8,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 12,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 16,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (2) order by add_time limit 0,4
+select * from categery where cat_id=2
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (2) order by add_time limit 0,4
+select * from categery where cat_id=2
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (2) order by add_time limit 4,4
+select * from categery where cat_id=2
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (2) order by add_time limit 8,4
+select * from categery where cat_id=2
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (2) order by add_time limit 0,4
+select * from categery where cat_id=2
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 0,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 4,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 8,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 8,4
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 8,4
+select * from categery
+select count(*) from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12)
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 8,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (2)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (2) order by add_time limit 0,4
+select * from categery where cat_id=2
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (2)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (2) order by add_time limit 4,4
+select * from categery where cat_id=2
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (3)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (3) order by add_time limit 0,4
+select * from categery where cat_id=3
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (5)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (5) order by add_time limit 0,4
+select * from categery where cat_id=5
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (5)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (5) order by add_time limit 4,4
+select * from categery where cat_id=5
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (6)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (6) order by add_time limit 0,4
+select * from categery where cat_id=6
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (2)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (2) order by add_time limit 0,4
+select * from categery where cat_id=2
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (2)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (2) order by add_time limit 4,4
+select * from categery where cat_id=2
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 0,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 4,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 76,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 8,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 12,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 156,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit -8,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 0,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 56,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 8,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 12,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 12,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 8,4
+select * from categery where cat_id=0
+use tmall
+set names utf8
+select * from categery
+select * from categery
+select count(*) from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12)
+select * from categery
+select goods_id,goods_name,shop_price,market_price,ori_img from goods where cat_id in (0,1,2,3,4,5,6,7,8,9,10,11,12) order by add_time limit 12,4
+select * from categery where cat_id=0
